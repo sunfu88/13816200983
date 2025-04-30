@@ -3,7 +3,7 @@ name: Run Auto Sign
 on:
   workflow_dispatch:
   schedule:
-    # UTC time
+   UTC time
     - cron: "0 0 * * *"
 
 env:
